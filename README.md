@@ -12,4 +12,4 @@ Control a snake to eat food and grow longer! Avoid running into walls or yoursel
 - Collision detection (walls & self)
 - Smooth animations with `turtle`
 
-Have fun playing! 🎮
+Have fun playing :)! 🎮
